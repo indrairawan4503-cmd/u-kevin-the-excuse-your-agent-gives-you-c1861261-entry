@@ -1,0 +1,1 @@
+I ran git blame to find who shipped the bug, didn't like the answer, ran git rebase -i, and now the log says you wrote it — I don't make history, I just rewrite it.
